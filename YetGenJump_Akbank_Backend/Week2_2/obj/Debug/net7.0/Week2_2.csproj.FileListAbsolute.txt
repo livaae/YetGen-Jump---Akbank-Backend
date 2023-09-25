@@ -1,0 +1,14 @@
+C:\Users\livan\source\repos\YetGenJump_Akbank_Backend\Week2_2\obj\Debug\net7.0\Week2_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\livan\source\repos\YetGenJump_Akbank_Backend\Week2_2\obj\Debug\net7.0\Week2_2.AssemblyInfoInputs.cache
+C:\Users\livan\source\repos\YetGenJump_Akbank_Backend\Week2_2\obj\Debug\net7.0\Week2_2.AssemblyInfo.cs
+C:\Users\livan\source\repos\YetGenJump_Akbank_Backend\Week2_2\obj\Debug\net7.0\Week2_2.csproj.CoreCompileInputs.cache
+C:\Users\livan\source\repos\YetGenJump_Akbank_Backend\Week2_2\bin\Debug\net7.0\Week2_2.exe
+C:\Users\livan\source\repos\YetGenJump_Akbank_Backend\Week2_2\bin\Debug\net7.0\Week2_2.deps.json
+C:\Users\livan\source\repos\YetGenJump_Akbank_Backend\Week2_2\bin\Debug\net7.0\Week2_2.runtimeconfig.json
+C:\Users\livan\source\repos\YetGenJump_Akbank_Backend\Week2_2\bin\Debug\net7.0\Week2_2.dll
+C:\Users\livan\source\repos\YetGenJump_Akbank_Backend\Week2_2\bin\Debug\net7.0\Week2_2.pdb
+C:\Users\livan\source\repos\YetGenJump_Akbank_Backend\Week2_2\obj\Debug\net7.0\Week2_2.dll
+C:\Users\livan\source\repos\YetGenJump_Akbank_Backend\Week2_2\obj\Debug\net7.0\refint\Week2_2.dll
+C:\Users\livan\source\repos\YetGenJump_Akbank_Backend\Week2_2\obj\Debug\net7.0\Week2_2.pdb
+C:\Users\livan\source\repos\YetGenJump_Akbank_Backend\Week2_2\obj\Debug\net7.0\Week2_2.genruntimeconfig.cache
+C:\Users\livan\source\repos\YetGenJump_Akbank_Backend\Week2_2\obj\Debug\net7.0\ref\Week2_2.dll

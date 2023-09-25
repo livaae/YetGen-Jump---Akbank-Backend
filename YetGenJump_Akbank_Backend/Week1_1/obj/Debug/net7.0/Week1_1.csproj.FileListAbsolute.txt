@@ -1,0 +1,14 @@
+C:\Users\livan\source\repos\YetGenJump_Akbank_Backend\Week1_1\bin\Debug\net7.0\Week1_1.exe
+C:\Users\livan\source\repos\YetGenJump_Akbank_Backend\Week1_1\bin\Debug\net7.0\Week1_1.deps.json
+C:\Users\livan\source\repos\YetGenJump_Akbank_Backend\Week1_1\bin\Debug\net7.0\Week1_1.runtimeconfig.json
+C:\Users\livan\source\repos\YetGenJump_Akbank_Backend\Week1_1\bin\Debug\net7.0\Week1_1.dll
+C:\Users\livan\source\repos\YetGenJump_Akbank_Backend\Week1_1\bin\Debug\net7.0\Week1_1.pdb
+C:\Users\livan\source\repos\YetGenJump_Akbank_Backend\Week1_1\obj\Debug\net7.0\Week1_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\livan\source\repos\YetGenJump_Akbank_Backend\Week1_1\obj\Debug\net7.0\Week1_1.AssemblyInfoInputs.cache
+C:\Users\livan\source\repos\YetGenJump_Akbank_Backend\Week1_1\obj\Debug\net7.0\Week1_1.AssemblyInfo.cs
+C:\Users\livan\source\repos\YetGenJump_Akbank_Backend\Week1_1\obj\Debug\net7.0\Week1_1.csproj.CoreCompileInputs.cache
+C:\Users\livan\source\repos\YetGenJump_Akbank_Backend\Week1_1\obj\Debug\net7.0\Week1_1.dll
+C:\Users\livan\source\repos\YetGenJump_Akbank_Backend\Week1_1\obj\Debug\net7.0\refint\Week1_1.dll
+C:\Users\livan\source\repos\YetGenJump_Akbank_Backend\Week1_1\obj\Debug\net7.0\Week1_1.pdb
+C:\Users\livan\source\repos\YetGenJump_Akbank_Backend\Week1_1\obj\Debug\net7.0\Week1_1.genruntimeconfig.cache
+C:\Users\livan\source\repos\YetGenJump_Akbank_Backend\Week1_1\obj\Debug\net7.0\ref\Week1_1.dll
